@@ -11,6 +11,7 @@ SO THAT can quickly create a professional README for a new project
 ## Criteria as Stated:
 
 *GIVEN a command-line application that accepts user input
+
 *WHEN I am prompted for information about my application repository
 *THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 *WHEN I enter my project title
